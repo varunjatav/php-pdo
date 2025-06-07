@@ -12,3 +12,5 @@ And handling errors
 PDO allows you to work with any database that has a PDO driver available. PDO relies on database-specific drivers, e.g., PDO_MYSQL for MySQL, PDO_PGSQL for PostgreSQL, PDO_OCI for Oracle database, etc., to function properly. 
 
 Therefore, to use PDO for a specific database, you need to have a corresponding database driver available.
+
+## Connecting to MySQL
