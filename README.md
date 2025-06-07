@@ -1,1 +1,1 @@
-## PHP PDO (PHP Datta Object)
+## PHP PDO (PHP Data Object)
