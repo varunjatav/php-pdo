@@ -14,3 +14,4 @@ PDO allows you to work with any database that has a PDO driver available. PDO re
 Therefore, to use PDO for a specific database, you need to have a corresponding database driver available.
 
 ## Connecting to MySQL
+## Creating New Tables
